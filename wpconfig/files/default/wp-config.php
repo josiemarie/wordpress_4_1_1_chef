@@ -21,7 +21,7 @@ define('WP_SITEURL','http://d3garpe449h2ig.cloudfront.net');
 
 // ** MySQL settings - You can get this info from your web host ** //
 /** The name of the database for WordPress */
-define('DB_NAME', 'sjwordpress');
+define('DB_NAME', 'wordpress');
 
 /** MySQL database username */
 define('DB_USER', 'admin4sj');
